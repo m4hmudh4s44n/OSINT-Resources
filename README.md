@@ -1,15 +1,4 @@
-# Awesome OSINT
-
-A [TraceLabs](https://tracelabs.org) endorsed list of awesome OSINT frameworks, libraries and software. 
-
-Note that there are great OSINT tools out there, but this list consists of tools that apply specifically to missing-persons searches.
-
-Join us on Discord!<br>[<img src="https://img.shields.io/badge/Discord-%40TraceLabs-teal">](https://tracelabs.org/discord)
-
-
-### Contributing
-
-Please take a quick gander at the [contributing guidelines](https://github.com/tracelabs/awesome-osint/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/tracelabs/awesome-osint/graphs/contributors); you rock!
+# OSINT Resources
 
 #### *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
 
